@@ -1,1 +1,1 @@
-possible capstone project
+This capstone project was my first dive into hypothesis testing, so I ask that you forgive the crudeness. I wanted to maintain that sense of "growth" from one project to another by not adding new skills to it. Instead, having it to focus on storytelling and thought process. The image links are broken because I lost them. Lessons learned from being new to portfolio building.
